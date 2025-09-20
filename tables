@@ -1,0 +1,8 @@
+tl = {"HI"}
+tl2 = {"Goodbye"}
+tl3 = {
+  hi = true,
+  privet = {
+    privet_1 = true
+  }
+}
